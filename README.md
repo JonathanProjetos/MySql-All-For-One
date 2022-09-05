@@ -19,7 +19,7 @@ Back-end:
 
 > Docker
 ```bash
-cd api/ 
+cd MySql-All-For-One/ 
 npm install
 ``` 
 ## Aviso Importante 
