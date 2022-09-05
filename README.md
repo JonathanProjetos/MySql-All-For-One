@@ -2,9 +2,10 @@
 
 # Contexto
 
-Esta aplicação e um compilado de querys para busca e manipulação de dados no banco.
+Esta aplicação e um compilado de querys, para busca e manipulação de dados no banco northwind.
 
 ## Importante
+
 - Para usar a aplicação, será necessário o uso de um drive, para gerar o banco de dados através do arquivo northwind.sql.
 > exemplo : [Mysql](https://www.mysql.com/)
 
