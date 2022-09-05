@@ -2,7 +2,7 @@
 
 # Contexto
 
-Esta aplicação e um compilado de querys, para busca e manipulação de dados no banco northwind.
+Esta aplicação e um compilado de queries, para busca e manipulação de dados no banco northwind.
 
 ## Importante
 
